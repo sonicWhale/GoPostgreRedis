@@ -1,0 +1,4 @@
+dbuser = "postgres"
+dbpassword = "gfhjkm"
+dbname = "dm"
+bpm = 43
